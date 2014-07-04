@@ -1,0 +1,5 @@
+Name = server
+AddressFamily = ipv4
+Interface = tun0
+Address = publicip-or-domain.ninja
+Subnet = 20.0.0.1/32
