@@ -1,4 +1,4 @@
 Name = client2
 AddressFamily = ipv4
-Interface = /dev/tun0
+Interface = tun0
 ConnectTo = server
