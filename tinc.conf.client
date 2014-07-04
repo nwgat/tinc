@@ -1,0 +1,4 @@
+Name = client1
+AddressFamily = ipv4
+Interface = tinc
+ConnectTo = server
