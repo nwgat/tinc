@@ -1,0 +1,4 @@
+ScriptsInterpreter = /system/bin/sh
+Device = /dev/tun
+Name = android
+ConnectTo = myvpn
